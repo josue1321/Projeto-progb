@@ -1,12 +1,27 @@
-# Projeto-Planejador
+# Sistema de Gestão Escolar
 
-O projeto procura criar uma plataforma colaborativa desenvolvida para otimizar o planejamento do calendário letivo de escolas públicas e privadas e integrar instituições parceiras como: ONGs, secretarias de saúde, universidades, empresas e órgãos culturais que desejam realizar ações e projetos nas unidades escolares.
+##  Funcionalidades
+- Autenticação e autorização de usuários
+- Cadastro e gerenciamento de alunos
+- Cadastro e gerenciamento de professores
+- Cadastro e gerenciamento de turmas
+- Cadastro de disciplinas
+- Registro e gerenciamento de notas
+-  Visualização do desempenho dos alunos
+- Gerenciamento de períodos letivos
+- Pesquisa e filtragem de informações
+- Controle de acesso baseado em permissões
+- Caléndario Escolar
 
-## Objetivo do Projeto
+---
+# OU
+---
+# Sistema de Caixa e Gerenciamento de Supermercado
 
-Eliminar os conflitos de datas e a sobrecarga de atividades de última hora, permitindo que escolas e entidades externas alinhem suas agendas com antecedência, garantindo previsibilidade, engajamento dos alunos e cumprimento da carga horária obrigatória.
-
-## Perfis de Usuários
-- Gestão Escolar (Direção e Coordenação): Define os marcos do ano letivo (provas, férias, conselhos de classe, eventos pedagógicos) e estabelece janelas abertas para intervenções externas. 
-- Instituições Parceiras: Conseguem ver com atecendência quais escolas estão mais propensas a receber ações e os períodos para que possam se planejar e escolher as datas de preferência.
-- Secretarias de Educação/Redes de Ensino: Visualizam métricas consolidadas e o impacto das parcerias no território.
+# Funcionalidades
+- Registro de vendas do caixa com Emissão de comprovante
+- Gerenciamento do estoque de produtos
+- Alertas de estoque baixo.
+- Cadastro de funcionários.
+- Controle de acesso de acordo com o tipo de usuário.
+- Relatórios de vendas.
