@@ -1,4 +1,4 @@
-# Sistema de Caixa e Gerenciamento de Supermercado
+# Sistema de Caixa e Gerenciamento de Estoque
 
 # Funcionalidades
 - Registro de vendas do caixa com Emissão de comprovante
