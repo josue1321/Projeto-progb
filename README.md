@@ -1,21 +1,3 @@
-# Sistema de Gestão Escolar
-
-##  Funcionalidades
-- Autenticação e autorização de usuários
-- Cadastro e gerenciamento de alunos
-- Cadastro e gerenciamento de professores
-- Cadastro e gerenciamento de turmas
-- Cadastro de disciplinas
-- Registro e gerenciamento de notas
--  Visualização do desempenho dos alunos
-- Gerenciamento de períodos letivos
-- Pesquisa e filtragem de informações
-- Controle de acesso baseado em permissões
-- Caléndario Escolar
-
----
-# OU
----
 # Sistema de Caixa e Gerenciamento de Supermercado
 
 # Funcionalidades
